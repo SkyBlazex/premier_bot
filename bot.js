@@ -34,4 +34,4 @@ bot.on('ready', () => {
   console.log('Bot On');
 });
 
-bot.login("MjY1NDM4MDAyMTU3NzE1NDU3.C0vevg.EErgGENd8kJp8DBy9PLFUf8myGI");
+bot.login("token");
